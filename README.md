@@ -1,5 +1,8 @@
 # crawl.s.data
 
+casperjs + phantomjs
+------------------
+
 install
 -------
   casperjs依赖 phantomjs 和 python 
